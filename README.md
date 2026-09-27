@@ -43,9 +43,7 @@ python -m pytest -q          # 27 tests
 | C12 | SED | **belief filter** estimate |
 | C13 | **Hybrid**: Q-learning if belief is confident, else SED on the belief | belief filter |
 
-(IDs C7, C9 and C10 were used by earlier prototype variants — a traffic-forecast
-feature and two corrector controls — that were removed because they did not
-contribute to the results.)
+
 
 ## Experiments
 
